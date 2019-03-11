@@ -3,7 +3,7 @@
 Plugin Name:        Kokku Cleanup
 Plugin URI:         https://kokku.com/
 Description:        A collection of cleanup, security & optimization modules.
-Version:            0.3.0
+Version:            0.4.0
 Author:             Kokku
 Author URI:         https://kokku.com/
 License:            MIT License
